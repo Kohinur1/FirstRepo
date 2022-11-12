@@ -1,1 +1,4 @@
 This is my first file i made through Git command 
+
+
+This my second command that made through Git command
