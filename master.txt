@@ -1,0 +1,1 @@
+This is my first file i made through Git command 
